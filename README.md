@@ -6,11 +6,6 @@
 - 💬 Ask me about MERN (MongoDB , ExpressJS , ReactJS , NodeJS)
 - 📫 Reach me at: Jellitiismail2002@gmail.com
 
-### 🌐 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jelliti-ismail-151a062a6/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jelliti__ismail/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ismaail.jelliti/)
 ### Languages and Tools
 
 #### Languages  
@@ -46,4 +41,17 @@
 <div align="center">
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismail01-jl&layout=compact&theme=radical)
+</div>
+
+---
+### 🌐 Connect with me:
+
+<div align="start">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jelliti-ismail-151a062a6/)
+&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jelliti__ismail/)
+&nbsp;&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ismaail.jelliti/)
+
 </div>
