@@ -41,8 +41,9 @@
 ---
 <div align="center">
 
-### GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismail01-jl&show_icons=true&theme=radical)
+</div>
+<div align="center">
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismail01-jl&layout=compact&theme=radical)
 </div>
