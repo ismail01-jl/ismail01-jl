@@ -38,3 +38,11 @@
 | MongoDB | OracleDB | MySQL |
 |---------|----------|-------|
 | <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="OracleDB" width="50"/> | <img src="https://camo.githubusercontent.com/7de92b374f52b241a55734d80dad6ab9b7577d234092f1e386a04262e33946d5/68747470733a2f2f7374617469632e63646e6c6f676f2e636f6d2f6c6f676f732f6d2f39312f6d7973716c2e737667" alt="MySQL" width="50"/> |
+---
+<div align="center">
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismail01-jl&show_icons=true&theme=radical)
+
+</div>
