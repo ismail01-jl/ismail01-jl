@@ -31,3 +31,10 @@
 | GitHub | VS Code | Postman | HTML | CSS | Swagger | UML | Figma |
 |--------|---------|---------|------|-----|---------|-----|-------|
 | <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" width="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" alt="Swagger" width="50"/> | <img src="https://camo.githubusercontent.com/e7c1c8eb68067b4e186b1305c23ee6a2b2dc2f1e96a4effd162807e55a8d3e22/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64352f554d4c5f6c6f676f2e737667" alt="UML" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="50"/> |
+
+---
+
+#### Database  
+| MongoDB | OracleDB | MySQL |
+|---------|----------|-------|
+| <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="OracleDB" width="50"/> | <img src="https://camo.githubusercontent.com/7de92b374f52b241a55734d80dad6ab9b7577d234092f1e386a04262e33946d5/68747470733a2f2f7374617469632e63646e6c6f676f2e636f6d2f6c6f676f732f6d2f39312f6d7973716c2e737667" alt="MySQL" width="50"/> |
